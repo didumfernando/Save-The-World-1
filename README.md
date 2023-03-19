@@ -3,6 +3,12 @@ Term 1 Coding Project ®didumfernando
 
 Description: Project Nexus is an all-in-one Platform to satisfy all your A level General Paper Needs. This website allows students to browse and add articles based on the myriad of A level General Paper topics. The website is also fully responsive making it accesible on your phone, laptop and even desktop letting you read and write even on-the-go.
 
+Languages and Libraries Used:-
+
+<img width="736" alt="Screenshot 2023-03-19 at 7 32 19 PM" src="https://user-images.githubusercontent.com/118650079/226172510-cfc9f9be-cc04-4cdf-afe7-e0704ef12c68.png">
+ 
+
+
 Backend Source Code: https://github.com/didumfernando/backend-v1 
 
 Front-End Source Code: https://github.com/didumfernando/articals-react--v1
